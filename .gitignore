@@ -1,3 +1,5 @@
-.venv/*
+# Ignoramos los archivos y carpetas que empiezan con punto
+.*
+!.gitignore
 data/*
 GSE166635_series_matrix.txt
